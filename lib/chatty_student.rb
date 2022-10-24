@@ -6,7 +6,7 @@ class ChattyStudent < Student
 
     def raise_hand
         10.times {super}
-        
+
         # while super < 10 do
         #     super += 1
         #     puts "Pick me!"
